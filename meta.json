@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Mongolia",
+      "id": "Q711"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q104845985",
+      "start": "2020-07-08",
+      "parent": "Q16639003"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "",
+        "title": "",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/mongolia-ministers"
 }
