@@ -1,0 +1,113 @@
+{
+  "title": "Dovchinsurengiin Ganzorig",
+  "pageID": 65690560,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Mongolian military personnel",
+    "United States Army War College alumni",
+    "Peacekeeping missions and operations involving the United Nations",
+    "United States Army Command and General Staff College alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dovchinsürengiin Ganzorig (born 1971) is a Mongolian Armed Forces Lieutenant General who currently serves as the Chief of the General Staff of the Mongolian Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mongolian Armed Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lieutenant General"
+                },
+                {
+                  "text": "Chief of the General Staff",
+                  "type": "internal",
+                  "page": "Chief of General Staff (Mongolia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mongolian Armed Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dovchinsürengiin Ganzorig"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mongolian Armed Forces major general (born 1971)",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "native_name": {
+            "text": "Довчинсүрэнгийн Ганзориг"
+          },
+          "image": {
+            "text": "Ganzorig Dovchinsuren Portrait.jpg"
+          },
+          "birth_place": {
+            "text": "Mongolia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mongolia"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇲🇳 Mongolia",
+            "links": [
+              {
+                "text": "Mongolia",
+                "type": "internal",
+                "page": "mongolia"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Mongolian Armed Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mongolian Armed Forces"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1995-present"
+          },
+          "rank": {
+            "text": "Lieutenant General"
+          },
+          "alma_mater": {
+            "text": "United States Army War College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Army War College"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.gsmaf.gov.mn/"
+          }
+        }
+      ]
+    }
+  ]
+}
