@@ -1,0 +1,69 @@
+{
+  "title": "Gürsediin Saikhanbayar",
+  "pageID": 67773164,
+  "categories": [
+    "Ministers of Defence of Mongolia",
+    "1968 births",
+    "Living people",
+    "People from Ulaanbaatar",
+    "Brigadier generals",
+    "Mongolian military personnel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brigadier general Gürsediin Saikhanbayar (Гүрсэдийн Сайханбаяр) is a Mongolian politician, public administration manager and military officer who has been the Minister of Defense of Mongolia since 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brigadier general"
+                },
+                {
+                  "text": "Minister of Defense of Mongolia",
+                  "type": "internal",
+                  "page": "Ministry of Defense (Mongolia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gürsediin Saikhanbayar"
+                ]
+              }
+            },
+            {
+              "text": "He is the 36th minister since the establishment of the ministry in 1911 and the 17th since the end of communism in 1990."
+            },
+            {
+              "text": "He holds the rank of Brigadier General, awarded to him in 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brigadier General"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mongolian Minister of Defense",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Saikhanbayar",
+            "Gürsediin"
+          ],
+          "lang": "Mongolian",
+          "template": "family name hatnote"
+        }
+      ]
+    }
+  ]
+}
