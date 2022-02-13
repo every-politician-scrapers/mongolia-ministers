@@ -196,6 +196,14 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Luvsannamsrai",
+            "Oyun-Erdene"
+          ],
+          "lang": "Mongolian",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1980",
           "month": "6",
           "day": "29",
