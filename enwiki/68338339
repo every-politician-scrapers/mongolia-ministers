@@ -1,212 +1,23 @@
 {
-  "title": "Battsetseg Batmunkh",
-  "pageID": 68338339,
-  "categories": [
-    "Mongolian People's Party politicians",
-    "1973 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Battsetseg Batmunkh (born 9 December 1973, Bayankhongor) is the current Minister of Foreign Affairs of Mongolia.",
-              "links": [
-                {
-                  "text": "Bayankhongor",
-                  "type": "internal",
-                  "page": "Bayankhongor Province"
-                },
-                {
-                  "text": "Minister of Foreign Affairs of Mongolia",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Mongolia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Battsetseg Batmunkh"
-                ]
-              }
-            },
-            {
-              "text": "She holds a BA (1996) in International Relations from the National University of Mongolia, a BBA (2000) from the University of Finance and Economics of Mongolia and an MBA (2005) from Maastricht School of Management.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National University of Mongolia"
-                },
-                {
-                  "text": "BBA",
-                  "type": "internal",
-                  "page": "Bachelor of Business Administration"
-                },
-                {
-                  "text": "University of Finance and Economics",
-                  "type": "internal",
-                  "page": "University of Finance and Economics (Mongolia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Maastricht School of Management"
-                }
-              ]
-            },
-            {
-              "text": "Previously she has served in various executive positions at Munkhiin Useg Group, as Deputy Minister for Foreign Affairs and as ambassador for Mongolia to Italy.",
-              "links": [
-                {
-                  "text": "Munkhiin Useg Group",
-                  "type": "external",
-                  "site": "http://munkhiin-useg.mn/%d0%b1%d0%b8%d0%b4%d0%bd%d0%b8%d0%b9-%d1%82%d1%83%d1%85%d0%b0%d0%b9/?lang=en"
-                },
-                {
-                  "text": "ambassador for Mongolia",
-                  "type": "internal",
-                  "page": "List of diplomatic missions of Mongolia"
-                }
-              ]
-            },
-            {
-              "text": "She speaks English and Russian."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She is married and has three children."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Mongolian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1973",
-          "month": "12",
-          "day": "9",
-          "template": "birth date and age"
-        },
-        {
-          "date": "July 2021",
-          "template": "cn"
-        }
-      ],
-      "infoboxes": [
-        {
-          "office1": {
-            "text": "Minister of Foreign Affairs of Mongolia",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs of Mongolia",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Mongolia)"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "January 2020"
-          },
-          "termstart5": {
-            "text": "2010",
-            "number": 2010
-          },
-          "termend5": {
-            "text": "2012",
-            "number": 2012
-          },
-          "office5": {
-            "text": "General Secretary of the Mongolian People's Party"
-          },
-          "termstart4": {
-            "text": "2011",
-            "number": 2011
-          },
-          "termend4": {
-            "text": "unknown"
-          },
-          "office4": {
-            "text": "Vice president of the Mongolian Academy of Social Sciences"
-          },
-          "birth_date": {
-            "text": "December 9, 1973"
-          },
-          "termend2": {
-            "text": "2021",
-            "number": 2021
-          },
-          "office2": {
-            "text": "Ambassador of Mongolia to Italy"
-          },
-          "party": {
-            "text": "Mongolian People’s Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mongolian People’s Party"
-              }
-            ]
-          },
-          "native_name_lang": {
-            "text": "mn"
-          },
-          "native_name": {
-            "text": "Батмөнхийн Батцэцэг"
-          },
-          "termend3": {
-            "text": "2020",
-            "number": 2020
-          },
-          "termstart3": {
-            "text": "2016",
-            "number": 2016
-          },
-          "office3": {
-            "text": "Deputy Minister for Foreign Affairs of Mongolia"
-          },
-          "termstart1": {
-            "text": "29 January 2021"
-          },
-          "alma_mater": {
-            "text": "National University of Mongolia Institute of Finance and Economics Maastricht School of Management",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Mongolia"
-              },
-              {
-                "text": "Institute of Finance and Economics",
-                "type": "internal",
-                "page": "University of Finance and Economics (Mongolia)"
-              },
-              {
-                "type": "internal",
-                "page": "Maastricht School of Management"
-              }
-            ]
-          },
-          "image": {
-            "text": "Deputy Secretary Sherman Meets With Mongolian Foreign Minister Batmunkh (51332931605).jpg"
-          },
-          "caption": {
-            "text": "Battsetseg (right) with US Deputy Secretary of State Wendy Sherman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wendy Sherman"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "office1": "Minister of Foreign Affairs of Mongolia",
+  "termstart2": "January 2020",
+  "termstart5": "2010",
+  "termend5": "2012",
+  "office5": "General Secretary of the Mongolian People's Party",
+  "termstart4": "2011",
+  "termend4": "unknown",
+  "office4": "Vice president of the Mongolian Academy of Social Sciences",
+  "birth_date": "December 9, 1973",
+  "termend2": "2021",
+  "office2": "Ambassador of Mongolia to Italy",
+  "party": "Mongolian People’s Party",
+  "native_name_lang": "mn",
+  "native_name": "Батмөнхийн Батцэцэг",
+  "termend3": "2020",
+  "termstart3": "2016",
+  "office3": "Deputy Minister for Foreign Affairs of Mongolia",
+  "termstart1": "29 January 2021",
+  "alma_mater": "National University of Mongolia Institute of Finance and Economics Maastricht School of Management",
+  "image": "Deputy Secretary Sherman Meets With Mongolian Foreign Minister Batmunkh (51332931605).jpg",
+  "caption": "Battsetseg (right) with US Deputy Secretary of State Wendy Sherman"
 }
