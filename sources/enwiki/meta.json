@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+      "name": "Mongolia",
+      "id": "Q711"
+    },
+    "cabinet": {
+      "id": "Q110168469",
+      "start": "2021-01-29",
+      "parent": "Q16639003"
+    },
+    "current_only": "true",
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Cabinet_of_Ukhnaagiin_Kh%C3%BCrels%C3%BCkh"
+    },
+    "person_description": {
+        "en": "Mongolian politician"
+    }
+}
