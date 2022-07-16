@@ -6,29 +6,19 @@ require 'pry'
 
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
-  decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
-  def header_column
-    'Ministers'
-  end
-
-  # TODO: make this easier to override
   def holder_entries
-    noko.xpath("//h2[.//span[contains(.,'#{header_column}')]][1]//following-sibling::ul[1]//li[a]")
+    noko.xpath("//h2[.//span[contains(.,'Ministers')]][1]//following-sibling::ul[1]//li[a]")
   end
 
-  class Officeholder < OfficeholderBase
-    def combo_date?
-      true
+  class Officeholder < OfficeholderNonTableBase
+    def name_node
+      noko.css('a').last
     end
 
-    def raw_combo_dates
-      noko.text.split(',').last.split(/[-–]/).map(&:tidy)
-    end
-
-    def name_cell
-      noko
+    def raw_combo_date
+      noko.text.split(',').last
     end
   end
 end
