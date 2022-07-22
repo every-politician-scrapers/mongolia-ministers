@@ -50,6 +50,12 @@
         {
           "description": "Mongolian Armed Forces major general (born 1971)",
           "template": "short description"
+        },
+        {
+          "list": [
+            "Mongolia"
+          ],
+          "template": "army"
         }
       ],
       "infoboxes": [
@@ -79,20 +85,17 @@
               }
             ]
           },
-          "branch": {
-            "text": "Mongolian Armed Forces",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mongolian Armed Forces"
-              }
-            ]
-          },
           "serviceyears": {
             "text": "1995-present"
           },
           "rank": {
-            "text": "Lieutenant General"
+            "text": "Mongolian Army-LTG-service.svg Lieutenant General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
           },
           "alma_mater": {
             "text": "United States Army War College",
