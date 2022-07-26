@@ -1,0 +1,169 @@
+[
+  {
+    "office": {
+      "links": [
+        "State Great Khural"
+      ],
+      "stated_as": "Member of State Great Khural"
+    },
+    "P580": "2000",
+    "P582": "2004"
+  },
+  {
+    "office": {
+      "links": [
+        "State Great Khural"
+      ],
+      "stated_as": "Member of State Great Khural"
+    },
+    "P580": "2004",
+    "P582": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "National Emergency Management Agency (Mongolia)"
+      ],
+      "stated_as": "Minister for Emergency Situations"
+    },
+    "P580": "2004",
+    "P582": "2006"
+  },
+  {
+    "office": {
+      "links": [
+        "Professional",
+        "Inspection"
+      ],
+      "stated_as": "Minister of Professional Inspection"
+    },
+    "P580": "2006",
+    "P582": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "State Great Khural"
+      ],
+      "stated_as": "Member of State Great Khural"
+    },
+    "P580": "2012",
+    "P582": "2012"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister",
+        "Mongolia"
+      ],
+      "stated_as": "Deputy Prime Minister of Mongolia"
+    },
+    "P580": "2014-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dendev Terbishdagva"
+    },
+    "P582": "2015-08-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Tserendashiin Oyunbaatar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister",
+        "Mongolia"
+      ],
+      "stated_as": "Deputy Prime Minister of Mongolia"
+    },
+    "P580": "2016-07-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Tserendashiin Oyunbaatar"
+    },
+    "P582": "2017-10-04",
+    "P1366": {
+      "links": [
+        "Ölziisaikhany Enkhtüvshin"
+      ],
+      "stated_as": "Ölziisaikhany Enkhtüvshin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Mongolia"
+      ],
+      "stated_as": "31st Prime Minister of Mongolia"
+    },
+    "P580": "2017-10-04",
+    "P1365": {
+      "links": [
+        "Jargaltulgyn Erdenebat"
+      ],
+      "stated_as": "Jargaltulgyn Erdenebat"
+    },
+    "P582": "2021-01-27",
+    "P1366": {
+      "links": [
+        "Luvsannamsrain Oyun-Erdene"
+      ],
+      "stated_as": "Luvsannamsrain Oyun-Erdene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Mongolian People's Party"
+      ],
+      "stated_as": "Chairman of the Mongolian People's Party"
+    },
+    "P580": "2017-11-21",
+    "P1365": {
+      "links": [
+        "Miyeegombyn Enkhbold"
+      ],
+      "stated_as": "Miyeegombyn Enkhbold"
+    },
+    "P582": "2021-06-25",
+    "P1366": {
+      "links": [
+        "Luvsannamsrain Oyun-Erdene"
+      ],
+      "stated_as": "Luvsannamsrain Oyun-Erdene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "State Great Khural"
+      ],
+      "stated_as": "Member of State Great Khural"
+    },
+    "P580": "2020",
+    "P582": "2021"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Mongolia"
+    },
+    "P1545": "6",
+    "P580": "2021-06-25",
+    "P1365": {
+      "links": [
+        "Khaltmaagiin Battulga"
+      ],
+      "stated_as": "Khaltmaagiin Battulga"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "State Great Khural"
+      ],
+      "stated_as": "Chairman of The State Great Khural"
+    },
+    "P580": "2012-08",
+    "P1365": {
+      "links": [
+        "Damdiny Demberel"
+      ],
+      "stated_as": "Damdiny Demberel"
+    },
+    "P582": "2016-06",
+    "P1366": {
+      "links": [
+        "Miyeegombyn Enkhbold"
+      ],
+      "stated_as": "Miyeegombyn Enkhbold"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Party (Mongolia)"
+      ],
+      "stated_as": "Leader of the Democratic Party"
+    },
+    "P580": "2014",
+    "P1365": {
+      "links": [
+        "Norovyn Altankhuyag"
+      ],
+      "stated_as": "Norovyn Altankhuyag"
+    },
+    "P582": "2016",
+    "P1366": {
+      "links": [
+        "Sodnomzunduin Erdene"
+      ],
+      "stated_as": "Sodnomzunduin Erdene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mongolia"
+      ],
+      "stated_as": "Head of President's Office of Mongolia"
+    },
+    "P580": "2017-07-10",
+    "P1365": {
+      "links": [
+        "Puntsagiin Tsagaan"
+      ],
+      "stated_as": "Puntsagiin Tsagaan"
+    }
+  }
+]

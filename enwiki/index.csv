@@ -1,9 +1,9 @@
-pageid,title
-4662380,Tsendiin Nyamdorj
-31495583,Gombojavyn Zandanshatar
-37920767,Zandaakhüügiin Enkhbold
-50152381,Luvsannamsrain Oyun-Erdene
-51754854,Ukhnaagiin Khürelsükh
-65690560,Dovchinsurengiin Ganzorig
-67773164,Gürsediin Saikhanbayar
-68338339,Battsetseg Batmunkh
+pageid,title,wikidata,label
+4662380,Tsendiin Nyamdorj,Q7849526,Tsendiin Nyamdorj
+31495583,Gombojavyn Zandanshatar,Q4142905,Gombojavyn Zandanshatar
+37920767,Zandaakhüügiin Enkhbold,Q81065,Zandaakhüügiin Enkhbold
+50152381,Luvsannamsrain Oyun-Erdene,Q24248226,Oyunerdene Luvsannamsrai
+51754854,Ukhnaagiin Khürelsükh,Q27058418,Khurelsukh Ukhnaa
+65690560,Dovchinsurengiin Ganzorig,Q104818606,Dovchinsurengiin Ganzorig
+67773164,Gürsediin Saikhanbayar,Q107000988,Gürsediin Saikhanbayar
+68338339,Battsetseg Batmunkh,Q107670236,Batmunkh Battsetseg
